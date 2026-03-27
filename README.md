@@ -24,11 +24,6 @@ A modern web application that helps users generate **high-quality, personalized 
 * Lucide React
 * Radix UI
 
-### Backend (optional)
-
-* Node.js + Express
-* OpenAI / LLM API (or custom model)
-
 ---
 
 ## 📦 Installation
@@ -58,7 +53,7 @@ npm run dev
 
 2. System processes input
 
-3. AI generates structured cold email
+3. App generates structured cold email
 
 4. User can copy and use instantly
 
