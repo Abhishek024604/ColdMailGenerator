@@ -6,6 +6,7 @@ import { Toaster, toast } from 'sonner';
 import { Input } from '@/components/ui/input';
 import { Label } from '@/components/ui/label';
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from '@/components/ui/select';
+import { Analytics } from '@vercel/analytics/react';
 
 const emailTemplates = {
   formal: (data) => ({
@@ -139,6 +140,7 @@ function App() {
 
   return (
     <div className="min-h-screen bg-[#030105] relative overflow-hidden">
+       <Analytics />
       <Toaster 
         theme="dark" 
         position="top-center"
