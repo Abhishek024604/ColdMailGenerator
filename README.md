@@ -91,12 +91,6 @@ Feel free to fork the repo and submit a PR.
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License.
-
----
-
 ## 💡 Tagline
 
 > Stop sending generic emails. Start sending emails that get replies.
