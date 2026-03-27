@@ -35,7 +35,7 @@ A modern web application that helps users generate **high-quality, personalized 
 
 ### 1. Clone the repository
 
-git clone https://github.com/your-username/cold-email-generator.git
+git clone https://github.com/Abhishek024604/cold-email-generator.git
 cd cold-email-generator
 
 ### 2. Install dependencies
