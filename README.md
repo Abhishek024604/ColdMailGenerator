@@ -1,6 +1,6 @@
 # 🚀 Cold Email Generator
 
-A modern AI-powered web application that helps users generate **high-quality, personalized cold emails** for outreach, networking, sales, and job applications — instantly.
+A modern web application that helps users generate **high-quality, personalized cold emails** for outreach, networking, sales, and job applications — instantly.
 
 ---
 
